@@ -1,0 +1,36 @@
+- https://alligator.io/vuejs/visualization-vue-d3/
+- https://vuejsexamples.com/tag/d3/
+- https://levelup.gitconnected.com/d3-js-and-vue-js-7a6a721eb79f
+- https://www.npmjs.com/package/vue-d3-charts
+- https://travishorn.com/reacting-to-data-changes-in-d3-using-vue-e8a33294362d
+- https://github.com/Saigesp/vue-d3-charts
+- https://blog.logrocket.com/data-visualization-with-vue-and-d3/
+- https://medium.com/@lambrospd/5-simple-rules-to-data-visualization-with-vue-js-and-d3-js-f6b2bd6a1d40
+- https://www.google.com/search?q=vue+d3&rlz=1C1GCEU_en&oq=vue+d3&aqs=chrome..69i57j0j69i61j69i65l3j69i61l2.1887j0j7&sourceid=chrome&ie=UTF-8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
